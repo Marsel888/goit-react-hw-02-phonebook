@@ -2,7 +2,12 @@ body {
   background-image: url(./leaves-background-with-metallic-foil_79603-956.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: aqua;
 }
 #root {
   margin-top: 200px;
+  background-color: blue;
+}
+div {
+  background-color: aqua;
 }
